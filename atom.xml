@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sanp.github.io</id>
     <title>Gridea</title>
-    <updated>2020-07-27T14:45:38.554Z</updated>
+    <updated>2020-07-27T14:47:11.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://sanp.github.io"/>
     <link rel="self" href="https://sanp.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://sanp.github.io/images/avatar.png</logo>
     <icon>https://sanp.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[sd ad asad ]]></title>
+        <id>https://sanp.github.io/post/sd-ad-asad/</id>
+        <link href="https://sanp.github.io/post/sd-ad-asad/">
+        </link>
+        <updated>2020-07-27T14:46:43.000Z</updated>
+        <content type="html"><![CDATA[<p>sdasdasd a</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://sanp.github.io/post/hello-gridea/</id>
